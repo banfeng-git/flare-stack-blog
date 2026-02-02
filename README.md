@@ -111,6 +111,8 @@ src/
 
 ## 部署指南
 
+> **推荐阅读**：[Flare Stack Blog 详细图文部署教程](https://blog.dukda.com/post/flare-stack-blog%E9%83%A8%E7%BD%B2%E6%95%99%E7%A8%8B) —— 包含所有凭证获取指引及常见问题排查。
+
 本项目支持两种 CI/CD 部署方式，选择其一即可：
 
 | 方式       | 平台                      | 免费额度     | 特点               |
