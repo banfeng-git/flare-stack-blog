@@ -9,21 +9,21 @@
   },
   "routes": [
     {
-      "pattern": "blog.466949.xyz",
+      "pattern": "DOMAIN_PLACEHOLDER",
       "custom_domain": true,
     },
   ],
   "d1_databases": [
     {
       "binding": "DB",
-      "database_id": "3f8ad38a-f71d-42a8-b55a-321624e6bf1b",
+      "database_id": "D1_DATABASE_ID",
       "migrations_dir": "migrations",
       "remote": true,
     },
   ],
   "r2_buckets": [
     {
-      "bucket_name": "blog",
+      "bucket_name": "bucket-name-placeholder",
       "binding": "R2",
       "remote": true,
     },
@@ -31,7 +31,7 @@
   "kv_namespaces": [
     {
       "binding": "KV",
-      "id": "10ef75402c394706aa4cae43f703eb23",
+      "id": "KV_NAMESPACE_ID",
       "remote": true,
     },
   ],
